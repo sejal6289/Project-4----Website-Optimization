@@ -1,12 +1,17 @@
 # frontend-nanodegree-mobile-portfolio
 P4 Udacity Front-end Nanodegree Program
 
+[View Project on Github](https://github.com/sejal6289/Project-4----Website-Optimization)
+- Open index.html on desktop/mobile and check the time to load the page.
+- Click on the other projects to check the page load time.
+
 ##Portfolio Index
 
 In general, followed page speed insights recommendations.
 
 Implemented gulp automation for:
 
+- Image Minification
 - CSS & Javascript inline includes & minification
 - HTML Minification
 
